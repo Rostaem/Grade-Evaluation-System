@@ -1,0 +1,3 @@
+/Users/hania/CLionProjects/Grade_Evaluation_System/cmake-build-debug/CMakeFiles/Grade_Evaluation_System.dir
+/Users/hania/CLionProjects/Grade_Evaluation_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hania/CLionProjects/Grade_Evaluation_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
